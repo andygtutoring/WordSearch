@@ -1,0 +1,23 @@
+/* WordSearch.css */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#game-container {
+  width: 400px;
+  margin: 40px auto;
+}
+
+#game-canvas {
+  border: 1px solid #ddd;
+}
+
+#word-list {
+  margin-top: 20px;
+}
+
+button {
+  margin-top: 10px;
+}
+
